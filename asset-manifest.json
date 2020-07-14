@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/todo-list/static/css/main.581925f1.chunk.css",
-    "main.js": "/todo-list/static/js/main.ab42f409.chunk.js",
-    "main.js.map": "/todo-list/static/js/main.ab42f409.chunk.js.map",
-    "runtime-main.js": "/todo-list/static/js/runtime-main.6038cf30.js",
-    "runtime-main.js.map": "/todo-list/static/js/runtime-main.6038cf30.js.map",
-    "static/js/2.6ed89c82.chunk.js": "/todo-list/static/js/2.6ed89c82.chunk.js",
-    "static/js/2.6ed89c82.chunk.js.map": "/todo-list/static/js/2.6ed89c82.chunk.js.map",
-    "index.html": "/todo-list/index.html",
-    "precache-manifest.36e64845669b6d0619858f06d6d389c6.js": "/todo-list/precache-manifest.36e64845669b6d0619858f06d6d389c6.js",
-    "service-worker.js": "/todo-list/service-worker.js",
-    "static/css/main.581925f1.chunk.css.map": "/todo-list/static/css/main.581925f1.chunk.css.map",
-    "static/js/2.6ed89c82.chunk.js.LICENSE.txt": "/todo-list/static/js/2.6ed89c82.chunk.js.LICENSE.txt"
+    "main.css": "//taisiiapn.github.io/TodoList/static/css/main.581925f1.chunk.css",
+    "main.js": "//taisiiapn.github.io/TodoList/static/js/main.ccd0deb6.chunk.js",
+    "main.js.map": "//taisiiapn.github.io/TodoList/static/js/main.ccd0deb6.chunk.js.map",
+    "runtime-main.js": "//taisiiapn.github.io/TodoList/static/js/runtime-main.fc8d45b9.js",
+    "runtime-main.js.map": "//taisiiapn.github.io/TodoList/static/js/runtime-main.fc8d45b9.js.map",
+    "static/js/2.6ed89c82.chunk.js": "//taisiiapn.github.io/TodoList/static/js/2.6ed89c82.chunk.js",
+    "static/js/2.6ed89c82.chunk.js.map": "//taisiiapn.github.io/TodoList/static/js/2.6ed89c82.chunk.js.map",
+    "index.html": "//taisiiapn.github.io/TodoList/index.html",
+    "precache-manifest.a0a440ac90c8f097c0a20c821dac3e4c.js": "//taisiiapn.github.io/TodoList/precache-manifest.a0a440ac90c8f097c0a20c821dac3e4c.js",
+    "service-worker.js": "//taisiiapn.github.io/TodoList/service-worker.js",
+    "static/css/main.581925f1.chunk.css.map": "//taisiiapn.github.io/TodoList/static/css/main.581925f1.chunk.css.map",
+    "static/js/2.6ed89c82.chunk.js.LICENSE.txt": "//taisiiapn.github.io/TodoList/static/js/2.6ed89c82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6038cf30.js",
+    "static/js/runtime-main.fc8d45b9.js",
     "static/js/2.6ed89c82.chunk.js",
     "static/css/main.581925f1.chunk.css",
-    "static/js/main.ab42f409.chunk.js"
+    "static/js/main.ccd0deb6.chunk.js"
   ]
 }
