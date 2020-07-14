@@ -1,4 +1,5 @@
 {
+  "homepage": "http://taisiiapn.github.io/todo_list",
   "name": "todo_list",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "react-uuid": "^1.0.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
